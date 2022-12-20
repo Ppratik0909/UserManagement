@@ -18,5 +18,5 @@ public class StateMasterEntity {
 	private String stateName;
 	@Column(name = "COUNTRY_ID")
 	private Integer countryId;
-
+int i=20;
 }
